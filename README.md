@@ -2,8 +2,8 @@
 
 This repository is for learning purposes only.
 
-- Porgramming
-- Computer Architecture
+- [Porgramming](./programming/README.md)
+- [Computer Architecture](./computer-architecture/README.md)
 - [Algorithms and Data Structures](https://github.com/makualiyev/dsa-concepts-problems.git)
 - Math for CS
 - [Operating Systems](./operating-systems/README.md)
