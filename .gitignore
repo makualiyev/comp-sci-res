@@ -451,3 +451,5 @@ FodyWeavers.xsd
 *.sln
 *.true
 *.false
+# Build output from the Makefile
+build/
