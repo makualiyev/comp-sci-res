@@ -2,7 +2,7 @@
 
 This repository is for learning purposes only.
 
-- [Porgramming](./programming/README.md)
+- [Programming](./programming/README.md)
 - [Computer Architecture](./computer-architecture/README.md)
 - [Algorithms and Data Structures](https://github.com/makualiyev/dsa-concepts-problems.git)
 - Math for CS
