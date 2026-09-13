@@ -1,8 +1,8 @@
 # Computer Science
 
-This repository is for learning purposes only.
+This repository is for learning purposes only. See [PROGRESS.md](./PROGRESS.md) for the full study tracker.
 
-- [Porgramming](./programming/README.md)
+- [Programming](./programming/README.md)
 - [Computer Architecture](./computer-architecture/README.md)
 - [Algorithms and Data Structures](https://github.com/makualiyev/dsa-concepts-problems.git)
 - Math for CS
