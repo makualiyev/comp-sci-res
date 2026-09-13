@@ -1,6 +1,6 @@
 # Computer Science
 
-This repository is for learning purposes only.
+This repository is for learning purposes only. See [PROGRESS.md](./PROGRESS.md) for the full study tracker.
 
 - [Programming](./programming/README.md)
 - [Computer Architecture](./computer-architecture/README.md)
